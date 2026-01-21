@@ -1,1 +1,2 @@
 Dibuat dalam branch add-nota
+For practice
