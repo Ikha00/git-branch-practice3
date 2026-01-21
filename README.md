@@ -1,2 +1,2 @@
-# Tujuan Repo
+# Tujuan Repository
 Untuk berlatih konsep branch.
